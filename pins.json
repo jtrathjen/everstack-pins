@@ -1,0 +1,98 @@
+{
+ "boards": {
+  "holiday": "Holiday Budget & Gift Planning",
+  "work": "Performance Review Templates"
+ },
+ "pins": [
+  {
+   "id": "p01-holiday-one-page",
+   "board": "holiday",
+   "title": "Holiday Budget Planner: Printable PDF + Excel & Google Sheets Tracker",
+   "description": "Plan Christmas spending in one place: set one holiday total, give each person a gift budget, and see what's left as you go. Six printable pages you can also type into, an Excel tracker and a Google Sheets copy. Holiday Budget & Gift Planner from Everstack Studio, $9. #ChristmasBudget #HolidayPlanner #GiftList",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p01-holiday-one-page",
+   "alt_text": "Holiday Budget & Gift Planner title image: the printable gift list page behind the tracker's Budget tab in Google Sheets.",
+   "publish_after": "2026-10-11"
+  },
+  {
+   "id": "p02-holiday-per-person",
+   "board": "holiday",
+   "title": "Christmas Gift List Template with a Budget for Each Person",
+   "description": "A gift list with a budget for each person: a gift budget per person, spent and left, and a status for every gift (idea, ordered, bought, wrapped, given). Excel tracker, Google Sheets copy and printable pages. Holiday Budget & Gift Planner, $9. #GiftList #ChristmasGiftIdeas #HolidayBudget",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p02-holiday-per-person",
+   "alt_text": "The tracker's People and Gifts tabs: each person's gift budget, spent and left, and a gift list with a status for each gift.",
+   "publish_after": "2026-10-12"
+  },
+  {
+   "id": "p03-holiday-eight-ways",
+   "board": "holiday",
+   "title": "Christmas Budget Spreadsheet: Gifts, Cards, Hosting, Travel and More",
+   "description": "Set one holiday total, then split it across gifts, cards and postage, events and outings, food and hosting, decorations, travel, giving and other. Planned, spent and left for each, in Excel or Google Sheets. Holiday Budget & Gift Planner, $9. #ChristmasBudget #BudgetSpreadsheet #HolidayPlanning",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p03-holiday-eight-ways",
+   "alt_text": "The tracker's Budget tab: eight categories with planned, spent, left and an On track status, using a fictional example.",
+   "publish_after": "2026-10-13"
+  },
+  {
+   "id": "p04-holiday-checks",
+   "board": "holiday",
+   "title": "Holiday Budget Tracker for Excel and Google Sheets with Built-In Checks",
+   "description": "13 checks tell you when the totals tie out, and say what to fix if one doesn't: a row typed below the table, a changed formula, a gift missing its person. Excel tracker plus Google Sheets copy and printable pages. Holiday Budget & Gift Planner, $9. #ExcelTemplate #GoogleSheets #HolidayBudget",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p04-holiday-checks",
+   "alt_text": "The tracker's Checks tab: 13 checks, each with actual, expected, difference, an OK status and how to fix it.",
+   "publish_after": "2026-10-14"
+  },
+  {
+   "id": "p05-holiday-january",
+   "board": "holiday",
+   "title": "Holiday Spending Review: Set Up Next Christmas in January",
+   "description": "After the holidays, compare planned with spent for every category and work out a monthly set-aside for next year (arithmetic only, not advice). Printable January review page plus the tracker tab. Holiday Budget & Gift Planner, $9. #ChristmasPlanning #BudgetPlanner #NewYearPlanning",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p05-holiday-january",
+   "alt_text": "Page 6 of the printable planner, the January review, beside the tracker's January Review tab comparing planned and spent by category.",
+   "publish_after": "2026-10-15"
+  },
+  {
+   "id": "p06-holiday-download",
+   "board": "holiday",
+   "title": "Holiday Budget & Gift Planner: Printable PDF, Excel and Google Sheets",
+   "description": "What's in the download: a Start Here guide, the Holiday Planner PDF in US Letter and A4, the Holiday Tracker for Excel, a Google Sheets copy, and a license and support page. One-time $9. #PrintablePlanner #ChristmasPlanner #DigitalDownload",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p06-holiday-download",
+   "alt_text": "The five items in the download, each with a thumbnail: Start Here, the Holiday Planner PDFs, the Excel tracker, the Google Sheets copy, and License and Support.",
+   "publish_after": "2026-10-16"
+  },
+  {
+   "id": "p07-work-every-line",
+   "board": "work",
+   "title": "Performance Review Templates for Managers: Evidence Log + Draft Check",
+   "description": "Performance review templates that start from what happened: keep dated notes on each direct report, draft from them, and check every statement against a note before it goes into your employer's form. Excel and Word, also tested in Google Sheets and Docs. Review Cycle Kit for Managers, $29. #PerformanceReview #ManagerTips #ExcelTemplate",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p07-work-every-line",
+   "alt_text": "Review Cycle Kit for Managers title image: a Review Guide page behind the Draft Check tab, where each statement shows a status such as VERIFIED.",
+   "publish_after": "2026-10-11"
+  },
+  {
+   "id": "p08-work-draft-check",
+   "board": "work",
+   "title": "Performance Review Draft Check: Back Every Statement with a Dated Note",
+   "description": "Before a review goes in, list each statement with its evidence IDs and mark it VERIFIED or UNVERIFIED, with the reason in words. Part of the Review Cycle Kit for Managers: Excel, Word and PDF, $29. For review preparation only; your employer's process comes first. #PerformanceReview #Management #PeopleManager",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p08-work-draft-check",
+   "alt_text": "The Draft Check tab: statements from fictional drafts with evidence IDs, who checked them and when, and a VERIFIED or UNVERIFIED status.",
+   "publish_after": "2026-10-13"
+  },
+  {
+   "id": "p09-work-thin-notes",
+   "board": "work",
+   "title": "Manager Evidence Log: Spot Thin or Last-Minute Review Notes",
+   "description": "See notes by goal and month for each direct report, which goals and months have no notes, and how much came from the last eight weeks, before you start writing reviews. Review Cycle Kit for Managers, Excel and Word, $29. #PerformanceReview #ManagerTools #Leadership",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p09-work-thin-notes",
+   "alt_text": "The Summary tab: for each fictional person, notes by type and goal, goals and months with no notes, and the share from the last eight weeks.",
+   "publish_after": "2026-10-15"
+  },
+  {
+   "id": "p10-work-sentence-frames",
+   "board": "work",
+   "title": "Performance Review Phrases: 60 Sentence Frames and Vague-to-Specific Rewrites",
+   "description": "Write reviews that say what happened: 60 sentence frames in 12 areas with slots for the note ID, plus 24 vague-to-specific rewrites and a bias and tone checklist. In the Review Cycle Kit for Managers, $29. #PerformanceReview #ReviewPhrases #ManagerTips",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p10-work-sentence-frames",
+   "alt_text": "Pages from the Writing Guide: sentence frames with slots for what happened and the note ID, and vague-to-specific rewrites.",
+   "publish_after": "2026-10-17"
+  }
+ ]
+}
