@@ -59,6 +59,15 @@
    "publish_after": "2026-10-16"
   },
   {
+   "id": "p13-holiday-gift-status",
+   "board": "holiday",
+   "title": "Christmas Gift Tracker Spreadsheet: Idea, Ordered, Bought, Wrapped, Given",
+   "description": "Give every gift a status: idea, ordered, bought, wrapped or given. Ideas count as still to buy, not as spent, so each person's budget shows what's spent and what's left. Excel tracker plus a Google Sheets copy and printable pages. Holiday Budget & Gift Planner, $9. #GiftTracker #ChristmasGifts #GoogleSheets",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p13-holiday-gift-status",
+   "alt_text": "The tracker's People and Gifts tabs: each person's gift budget, spent, left and status, and a gift list with a status dropdown, price and whether it counts as spent.",
+   "publish_after": "2026-10-18"
+  },
+  {
    "id": "p07-work-every-line",
    "board": "work",
    "title": "Performance Review Templates for Managers: Evidence Log + Draft Check",
@@ -93,6 +102,33 @@
    "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p10-work-sentence-frames",
    "alt_text": "Pages from the Writing Guide: sentence frames with slots for what happened and the note ID, and vague-to-specific rewrites.",
    "publish_after": "2026-10-17"
+  },
+  {
+   "id": "p12-work-season-tracker",
+   "board": "work",
+   "title": "Performance Review Timeline for Managers: Track Each Review Stage Against Your Due Date",
+   "description": "Set your review due date and each stage's date counts back from it, from the self-review request to the conversation. The Season Tracker shows each person's next step and whether it's on track or late. Excel, with Word templates and PDF guides. Review Cycle Kit for Managers, $29. #PerformanceReview #ManagerTips #ReviewSeason",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p12-work-season-tracker",
+   "alt_text": "The Season Tracker tab: each fictional person's review stages against stage due dates, with the next step, its due date and On track or Late, beside the Review Guide's write-in timeline page.",
+   "publish_after": "2026-10-18"
+  },
+  {
+   "id": "p14-work-calibration",
+   "board": "work",
+   "title": "Performance Review Calibration Template: Draft vs Calibrated Ratings with a Reason",
+   "description": "Type in your employer's rating labels, then put draft and calibrated ratings side by side, one row per person, with a reason for every change and the spread of ratings. Room for 7 labels and 40 people. Excel. It doesn't rate anyone for you. Review Cycle Kit for Managers, $29. #PerformanceReview #Calibration #PeopleManagement",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p14-work-calibration",
+   "alt_text": "The Calibration Sheet: five fictional people with role, level, draft rating, key evidence, calibrated rating and a reason for one change, and the Spread tab counting people at each rating.",
+   "publish_after": "2026-10-20"
+  },
+  {
+   "id": "p15-work-self-review",
+   "board": "work",
+   "title": "Self-Review Questions to Send Your Team, Plus a Review Draft Template in Word",
+   "description": "A two-page Self-Review Request to send each direct report, and a three-page Review Draft Template with results against each goal, evidence IDs and a before-you-send checklist. Word files, also tested in Google Docs. Review Cycle Kit for Managers, $29. #SelfReview #PerformanceReview #ManagerTips",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p15-work-self-review",
+   "alt_text": "The two Word templates: the top of the Self-Review Request and of the Review Draft Template, and the draft template's before-you-send checklist.",
+   "publish_after": "2026-10-22"
   }
  ]
 }
