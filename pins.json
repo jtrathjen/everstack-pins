@@ -1,9 +1,37 @@
 {
  "boards": {
   "holiday": "Holiday Budget & Gift Planning",
-  "work": "Performance Review Templates"
+  "work": "Performance Review Templates",
+  "budget": "Budget Spreadsheets"
  },
  "pins": [
+  {
+   "id": "p18-budget-sinking-jars",
+   "board": "budget",
+   "title": "Sinking Funds Tracker Spreadsheet: A Jar for Every Yearly Bill, What to Set Aside Each Payday",
+   "description": "A jar for every yearly or one-time cost, with a target, a due date and what to set aside each payday, counted from your real paydays. Log deposits and each jar fills. Excel, with a Google Sheets copy. Sinking Fund Jars, $6. The set-aside is arithmetic on the targets and dates you enter. #SinkingFunds #BudgetSpreadsheet #AnnualBills",
+   "link": "https://everstackstudio.com/money/sinking-fund-jars?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p18-budget-sinking-jars",
+   "alt_text": "Sinking Fund Jars title image: the Jars tab in Google Sheets with six fictional jars, each with a target, due date, paydays left and what to set aside each payday.",
+   "publish_after": "2026-10-26"
+  },
+  {
+   "id": "p19-budget-payday-bills",
+   "board": "budget",
+   "title": "Paycheck Budget Spreadsheet: See Which Paycheck Pays Each Bill, and Spot a Short One Early",
+   "description": "Every monthly bill lined up under the paycheck that pays it: the last payday on or before its due date. Your next 26 paychecks, each with bills, savings and what's left, and a short one flagged with what to change. Excel, with a Google Sheets copy. Payday Lineup, $6. Bills are matched by the dates you enter, so leave room for bank timing. #PaycheckBudget #BillTracker #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/payday-lineup?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p19-budget-payday-bills",
+   "alt_text": "The Lineup tab in Google Sheets with fictional paychecks and each bill under the paycheck that pays it; paycheck 2 is ringed as short by $25.00 because rent due on the 1st is paid from it.",
+   "publish_after": "2026-10-28"
+  },
+  {
+   "id": "p20-budget-payoff-side-by-side",
+   "board": "budget",
+   "title": "Debt Payoff Planner Spreadsheet: Snowball and Avalanche Side by Side, a Payoff Month per Debt",
+   "description": "Snowball, avalanche and minimum payments only, side by side, with an estimated payoff month for each debt. It never calls one method better: the choice is yours. Room for 10 debts. Excel, with a Google Sheets copy. Payoff Date Finder, $8. Interest is estimated monthly at APR / 12, so verify every number with your lender. #DebtPayoff #DebtSnowball #DebtAvalanche",
+   "link": "https://everstackstudio.com/money/payoff-date-finder?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p20-budget-payoff-side-by-side",
+   "alt_text": "The Plan tab with snowball, avalanche and minimums only ringed side by side: estimated final payoff month, months, estimated interest and total paid for each, using fictional debts.",
+   "publish_after": "2026-10-30"
+  },
   {
    "id": "p01-holiday-one-page",
    "board": "holiday",
