@@ -33,6 +33,33 @@
    "publish_after": "2026-10-30"
   },
   {
+   "id": "p23-budget-26-paychecks",
+   "board": "budget",
+   "title": "Paycheck Budget Spreadsheet: Your Next 26 Paychecks, Each With Its Bills, and a Short One Flagged",
+   "description": "Your next 26 paychecks, each with its bills, savings and what's left. A short one shows Short by and the amount, with what to change: move a bill to the paycheck before, or lower savings this time. Each bill is matched to the last payday on or before its due date. Excel, with a Google Sheets copy. Payday Lineup, $6. #PaycheckBudget #BillTracker #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/payday-lineup?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p23-budget-26-paychecks",
+   "alt_text": "The Paychecks tab: 26 fictional paychecks with take-home, bills, savings and what's left, with a short one ringed and its note: move a bill to the paycheck before, or lower savings this time.",
+   "publish_after": "2026-11-02"
+  },
+  {
+   "id": "p24-budget-payoff-month",
+   "board": "budget",
+   "title": "Debt Payoff Planner Spreadsheet With a Fit Check First: Four Questions Before You Make a Plan",
+   "description": "A fit check comes first: four questions about your debts. If this isn't the right tool for your situation, it shows no plan and points you to official information instead. If it fits, choose snowball or avalanche and the extra you can add each month. Excel, with a Google Sheets copy. Payoff Date Finder, $8. Interest is estimated monthly at APR / 12, so verify every number with your lender. #DebtPayoffPlanner #DebtSnowball #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/payoff-date-finder?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p24-budget-payoff-month",
+   "alt_text": "Start Here's four fit-check questions answered Yes, ringed with Fit check passed, above the plan settings and the at-a-glance block, with fictional numbers.",
+   "publish_after": "2026-11-04"
+  },
+  {
+   "id": "p25-budget-next-payday",
+   "board": "budget",
+   "title": "Sinking Funds Tracker Spreadsheet: One Total to Set Aside on Your Next Payday, for Every Yearly Bill",
+   "description": "Give each yearly or one-time cost a jar with a target and a due date. Each jar counts your real paydays left and shows what to set aside, and Start Here shows one total for your next payday. Weekly, every 2 weeks, twice a month or monthly. Excel, with a Google Sheets copy. Sinking Fund Jars, $6. The set-aside is arithmetic on what you enter, not advice. #SinkingFunds #AnnualBills #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/sinking-fund-jars?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p25-budget-next-payday",
+   "alt_text": "Start Here's pay schedule and at-a-glance block, with a fictional $183.95 to set aside on the next payday ringed, beside the Paydays tab listing each upcoming payday.",
+   "publish_after": "2026-11-06"
+  },
+  {
    "id": "p01-holiday-one-page",
    "board": "holiday",
    "title": "Holiday Budget Planner: Printable PDF + Excel & Google Sheets Tracker",
@@ -96,6 +123,15 @@
    "publish_after": "2026-10-18"
   },
   {
+   "id": "p26-holiday-more-than-gifts",
+   "board": "holiday",
+   "title": "Christmas Budget Categories: Plan Cards, Hosting, Decorations and Travel, Not Just Gifts",
+   "description": "Gifts are only one line of the holiday budget. Cards and stamps, school and work events, hosting dinners, decorations, trips and giving all draw from the same total. Plan each one, then see what's spent and what's left as you go. Printable planner plus an Excel tracker with a Google Sheets copy. Holiday Budget & Gift Planner, $9. #ChristmasBudget #HolidayBudget #HolidayPlanner",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p26-holiday-more-than-gifts",
+   "alt_text": "Type card from the Holiday Budget & Gift Planner: Budget for more than gifts. Cards and postage, events and outings, food and hosting, decorations, travel and giving.",
+   "publish_after": "2026-11-03"
+  },
+  {
    "id": "p07-work-every-line",
    "board": "work",
    "title": "Performance Review Templates for Managers: Evidence Log + Draft Check",
@@ -157,6 +193,15 @@
    "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p15-work-self-review",
    "alt_text": "The two Word templates: the top of the Self-Review Request and of the Review Draft Template, and the draft template's before-you-send checklist.",
    "publish_after": "2026-10-22"
+  },
+  {
+   "id": "p27-work-first-note",
+   "board": "work",
+   "title": "Performance Review Templates for Managers: Log Notes, Find Gaps, Draft and Check Each Line",
+   "description": "Five steps through one review cycle. Log dated notes as the year goes, see whose notes are thin or bunched in the last few weeks, line up one person's notes by goal, write in the Word draft template, then run Draft Check before anything goes into your employer's form. Excel and Word, or Google Sheets and Docs. Review Cycle Kit for Managers, $29. It doesn't rate anyone. #PerformanceReview #ManagerTips #ReviewTemplates",
+   "link": "https://everstackstudio.com/work/review-cycle-kit?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p27-work-first-note",
+   "alt_text": "Type card from the Review Cycle Kit for Managers: One review cycle, five steps. Log dated notes on each report, see whose notes are thin, line up notes by goal, draft from the template, run Draft Check before you send.",
+   "publish_after": "2026-11-05"
   }
  ]
 }
