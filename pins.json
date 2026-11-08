@@ -2,7 +2,8 @@
  "boards": {
   "holiday": "Holiday Budget & Gift Planning",
   "work": "Performance Review Templates",
-  "budget": "Budget Spreadsheets"
+  "budget": "Budget Spreadsheets",
+  "egg": "Backyard Chicken Records"
  },
  "pins": [
   {
@@ -58,6 +59,51 @@
    "link": "https://everstackstudio.com/money/sinking-fund-jars?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p25-budget-next-payday",
    "alt_text": "Start Here's pay schedule and at-a-glance block, with a fictional $183.95 to set aside on the next payday ringed, beside the Paydays tab listing each upcoming payday.",
    "publish_after": "2026-11-06"
+  },
+  {
+   "id": "p31-budget-deposits",
+   "board": "budget",
+   "title": "Sinking Funds Tracker Spreadsheet With a Deposits Log: See What's in Each Jar So Far",
+   "description": "Log each deposit to a jar, and the Jars tab shows its progress bar and status. Every yearly or one-time cost gets a jar with a target and a due date, and what to set aside each payday. Excel, with a Google Sheets copy. Sinking Fund Jars, $6. The set-aside is arithmetic on what you enter, not advice. #SinkingFunds #SavingsTracker #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/sinking-fund-jars?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p31-budget-deposits",
+   "alt_text": "The Deposits tab with three fictional deposits, and each jar's progress bar and status from the Jars tab.",
+   "publish_after": "2026-11-10"
+  },
+  {
+   "id": "p32-budget-bills-tab",
+   "board": "budget",
+   "title": "Bill Tracker Spreadsheet: Monthly Bills, Due Dates, and the Ones Due Before Your First Payday",
+   "description": "List each monthly bill with its amount and due day, and see its next due date and the paycheck that pays it. A bill due before your first payday is named, not left out. Excel, with a Google Sheets copy. Payday Lineup, $6. It matches bills to paychecks by the dates you enter, so leave room for timing. #BillTracker #PaycheckPlanning #BudgetSpreadsheet",
+   "link": "https://everstackstudio.com/money/payday-lineup?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p32-budget-bills-tab",
+   "alt_text": "The Bills tab: eleven fictional monthly bills with amount, due day, next due date and the paycheck that pays each.",
+   "publish_after": "2026-11-12"
+  },
+  {
+   "id": "p28-egg-cost-per-dozen",
+   "board": "egg",
+   "title": "Chicken Tracker Spreadsheet: Egg Log With Lay Rate and Three Costs per Dozen Each Month",
+   "description": "Track a backyard flock's eggs, feed and costs, and see lay rate and cost per dozen each month: feed only, running costs, and full cost with big items like a coop spread over the years you choose. Chickens, ducks and quail each get a group. Excel, with a Google Sheets copy, plus printable barn sheets. Egg Money Ledger, $9. Arithmetic on the numbers you enter, with no comparison to store prices. #BackyardChickens #ChickenKeeping #EggLog",
+   "link": "https://everstackstudio.com/home/egg-money-ledger?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p28-egg-cost-per-dozen",
+   "alt_text": "The Summary tab with the feed, running and full cost per dozen columns ringed for January to October, using a fictional flock.",
+   "publish_after": "2026-11-09"
+  },
+  {
+   "id": "p29-egg-barn-sheets",
+   "board": "egg",
+   "title": "Printable Chicken Record Sheets: Daily Egg Log, Feed, Health and Care, Egg Sales and Flock Roster",
+   "description": "Five printable barn sheets on US Letter: daily egg log, feed and supplies, health and care, egg sales, and bird roster. Keep them by the coop and type them into the Excel workbook once a week; four use the same columns as their workbook tabs. Google Sheets copy included. Egg Money Ledger, $9. For record-keeping only, not veterinary advice. #ChickenKeeping #BackyardChickens #HomesteadPrintables",
+   "link": "https://everstackstudio.com/home/egg-money-ledger?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p29-egg-barn-sheets",
+   "alt_text": "The five printable barn sheets: daily egg log, feed and supplies log, health and care log, egg sales log, and bird roster, on US Letter pages.",
+   "publish_after": "2026-11-11"
+  },
+  {
+   "id": "p30-egg-by-group",
+   "board": "egg",
+   "title": "Duck and Chicken Egg Tracker: Lay Rate and Feed per Dozen for Each Group in Your Flock",
+   "description": "Chickens, ducks and quail each get their own group, plus an Other animals group for feed and costs only. See each group's eggs, lay rate and feed per dozen, and its eggs valued at your own price per dozen against its feed. Shared feed is split by bird-days and a share you set. Excel, with a Google Sheets copy. Egg Money Ledger, $9. #DuckEggs #BackyardChickens #ChickenTracker",
+   "link": "https://everstackstudio.com/home/egg-money-ledger?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p30-egg-by-group",
+   "alt_text": "Summary by group for a fictional flock: chickens, ducks and quail with eggs, lay rate, feed per dozen and egg value at the owner's own price per dozen, set against feed. Other animals shows feed only.",
+   "publish_after": "2026-11-13"
   },
   {
    "id": "p01-holiday-one-page",
@@ -130,6 +176,15 @@
    "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p26-holiday-more-than-gifts",
    "alt_text": "Type card from the Holiday Budget & Gift Planner: Budget for more than gifts. Cards and postage, events and outings, food and hosting, decorations, travel and giving.",
    "publish_after": "2026-11-03"
+  },
+  {
+   "id": "p33-holiday-thanksgiving-line",
+   "board": "holiday",
+   "title": "Holiday Budget Spreadsheet: Plan Thanksgiving Food and Hosting Alongside Christmas Gifts",
+   "description": "Give Thanksgiving dinner a place in the holiday budget: food and hosting has its own line, with planned, spent and left beside gifts, cards, travel and the rest. Excel or Google Sheets, plus six printable pages. Holiday Budget & Gift Planner, $9. It totals only the budgets and prices you enter. #HolidayBudget #ThanksgivingHosting #ChristmasBudget",
+   "link": "https://everstackstudio.com/money/holiday-budget-gift-planner?utm_source=pinterest&utm_medium=social&utm_campaign=pins&utm_content=p33-holiday-thanksgiving-line",
+   "alt_text": "The tracker's Budget tab: eight categories, including food and hosting, with planned, spent, left and an On track status, using a fictional example.",
+   "publish_after": "2026-11-14"
   },
   {
    "id": "p07-work-every-line",
